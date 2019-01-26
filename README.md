@@ -23,5 +23,6 @@ includes the following articles:
 > have the right to assume that you are always up-to-date
 > with the latest information.
 
-\n
+moove_rblx is a user-run group that is dedicated to bringing users modern, efficient technology. Your help is apprecieated for us to achieve this goal.
+
 mooving forward →
