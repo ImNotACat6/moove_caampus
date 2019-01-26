@@ -19,7 +19,6 @@ includes the following:
 - Important links
 - Reference items.
 
-###### DISCLAIMER
 > Remember that any of these documents, at any time, can
 > be changed. It is your responsibility to continuously
 > check whenever documents residing here are changed. We
@@ -31,4 +30,4 @@ moove_rblx is a user-run group that is dedicated to bringing users modern, effic
 
 mooving forward →
 
-[IM_Logo]: https://www.dropbox.com/s/8hnoe633horthrz/icon_bluu.png?dl=0?raw=1
+[IM_Logo]: https://www.dropbox.com/s/8hnoe633horthrz/icon_bluu.png?raw=1
