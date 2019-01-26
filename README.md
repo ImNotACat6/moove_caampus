@@ -3,8 +3,8 @@
 moove documentation.
 
 includes the following:
-\
-Branding guidelines.
+
+Branding guidelines.  
 Naming guidelines.
 Color guidlines.
 Typography guidelines.
