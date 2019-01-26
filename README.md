@@ -12,6 +12,7 @@ includes the following articles:
 - Terms and Conditions
 - Disclaimers
 - Important links
+- Reference items.
 
 > Remember that any of these documents, at any time, can
 > be changed. It is your responsibility to continuously
