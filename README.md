@@ -9,12 +9,8 @@ includes the following:
   - Typography
   - Color
   - Naming
-  
-
-Terms and Conditions.
-
-Disclaimers.
-
-Important links.
+- Terms and Conditions
+- Disclaimers
+- Important links
 
 mooving forward →
