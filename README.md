@@ -31,4 +31,4 @@ moove_rblx is a user-run group that is dedicated to bringing users modern, effic
 
 mooving forward →
 
-[IM_Logo]: https://previews.dropbox.com/p/thumb/AAUaSXfVgSGEdcDQBi63_2Pa2r2mL1FUkZaCrH1Gpz5urq1XtwUCOTI-AzITn5LXYLx8WGIWVK6dfGWT2seTT70vWgpHqG6Igyvq58WJQLrJZF_-PJdrK50WNuGYPSYeWu1G3AFs-nBFxmY46_-aqj9vAwgWyXIb-Z5uAFudBj_u0R7ldb-O_xEwtsETbR4EY4J58l6JbqWM05bCiqafpI8dzGYrF4mLYr0YBSzvS3SLhg/p.png?size=2048x1536&size_mode=3
+[IM_Logo]: https://www.dropbox.com/s/8hnoe633horthrz/icon_bluu.png?dl=0
