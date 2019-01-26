@@ -1,5 +1,19 @@
-# moove_caampus
+# moove_rblx
 
-caampus documentation.
+moove documentation.
+
+includes the following:
+
+
+Branding guidelines.
+Naming guidelines.
+Color guidlines.
+Typography guidelines.
+
+Terms and Conditions.
+
+Disclaimers.
+
+Important links.
 
 mooving forward →
