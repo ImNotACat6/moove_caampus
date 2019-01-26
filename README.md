@@ -2,8 +2,7 @@
 
 moove documentation.
 
-includes the following:  
-dddd
+includes the following articles:  
 
 - Guidelines
   - Branding
@@ -13,5 +12,11 @@ dddd
 - Terms and Conditions
 - Disclaimers
 - Important links
+
+> Remember that any of these documents, at any time, can
+> be changed. It is your responsibility to continuously
+> check whenever documents residing here are changed. We
+> have the right to assume that you are always up-to-date
+> with the latest information.
 
 mooving forward →
