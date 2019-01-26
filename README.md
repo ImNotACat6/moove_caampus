@@ -4,11 +4,11 @@ moove documentation.
 
 includes the following:
 
--Guidelines
-  -Branding
-  -Typography
-  -Color
-  -Naming
+- Guidelines
+  - Branding
+  - Typography
+  - Color
+  - Naming
   
 
 Terms and Conditions.
