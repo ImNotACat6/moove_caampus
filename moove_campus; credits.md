@@ -1,12 +1,13 @@
-credits
+# moove_caampus; credits  
+Credits for assets that are not owned by moove_rblx that are used inside of moove.  
 
-format
+###### FORMAT
 
-NAME OF OBJECT
-CREATOR NAME
-CREATOR ID
-OBJECT LINK
-OBJECT ID
+//NAME OF OBJECT
+//CREATOR NAME
+//CREATOR ID
+//OBJECT LINK
+//OBJECT ID
 
 Backgroud Music 
 Shyfoox  
