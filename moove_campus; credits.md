@@ -1,5 +1,5 @@
 # moove_caampus; credits  
-Credits for assets that are not owned by moove_rblx that are used inside of moove.  
+Credits for assets that are not owned by moove_rblx that are used inside of moove_caampus.  
 
 ###### FORMAT
 - *NAME OF OBJECT*
