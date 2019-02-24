@@ -6,11 +6,11 @@ All instances are created with `module:CreateObject(parameters)` while replacing
 
 > *EXAMPLE*  
 > ```
-> module.CreateContainer(workspace.Part, {  
+> module.CreateContainer(workspace.Part.SurfaceGui, {  
 >    BackgroundColor = Color3.new(255, 255, 0),  
 > })  
 > ```
-> Creates a UI container with a background color of yellow.
+> Creates a UI container with a background color of yellow parented to a SurfaceGui.
 
 
 
