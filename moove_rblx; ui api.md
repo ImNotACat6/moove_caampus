@@ -1,5 +1,5 @@
-# moove_caampus; credits  
-Naming guidelines for object names provided in Roblox and other software that moove_rblx incorporates.
+# moove_rblx; ui api 
+API for ui, ui instances, ui containers, ui functions, and ui events.
 
 ###### FOLDERS
 The name of a folder should begin with it's parent's name followed by a parameter regarding it's purpose.
