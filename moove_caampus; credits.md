@@ -12,8 +12,13 @@ Credits for assets that are not owned by moove_rblx that are used inside of moov
 - Backgroud Music
   - Shyfoox  
   - 112488179  
-  - https://web.roblox.com/library/674671098/Background-Music  
+  - https://web.roblox.com/library/674671098/redirect  
   - 674671098  
 
-###### PLUGINS
+###### IMAGES
+- water_splash  
+  - Ghaucho  
+  - 9639667  
+  - https://web.roblox.com/library/270368856/water-splash
+  - 270368856
 
